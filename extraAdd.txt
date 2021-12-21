@@ -1,4 +1,7 @@
-
+1.pea
+2.onion
+3.garlic
+4.carrot
 5 poatao
 6 tomato
 
